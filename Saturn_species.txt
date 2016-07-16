@@ -1,0 +1,4 @@
+#spec	state	X_c	  Tc   Pc
+NH3	s	2.00E-04  150. 2.0
+NH4SH	s	3.60E-05  0.0  0
+H2O	s	1.70E-03  297. 20.

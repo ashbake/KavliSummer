@@ -1,0 +1,50 @@
+# Planets, H and Hc in km, and Tc in Kelvins. 
+Venus
+species	state	Hc	H	Tc
+SO4H2	s	1.2476	7.8009	365.0
+SO4H2	l	2.591	11.2418	526.0
+
+Earth
+species	state	Hc	H	Tc
+H2O	s	0.7306	6.5398	221.0
+H2O	l	1.1811	8.3153	281.0
+
+Mars
+species	state	Hc	H	Tc
+CO2	s	0.7935	5.5882	110.0
+H2O	s	1.5038	10.9225	215.0
+
+Jupiter
+species	state	Hc	H	Tc
+NH3	s	2.7391	23.0412	149.0
+NH4SH	s	0.0	0.0	0.0
+H2O	s	3.9869	35.7216	231.0
+H2O	l	5.6916	42.6804	276.0
+
+Saturn
+species	state	Hc	H	Tc
+NH3	s	7.6304	58.35	150.0
+NH4SH	s	0.0	0.0	0.0
+H2O	s	18.1159	115.533	297.0
+
+Neptune
+species	state	Hc	H	Tc
+CH4	s	6.6822	25.3676	78.0
+SH2	s	5.3307	38.3766	118.0
+NH3	s	8.2961	55.6135	171.0
+NH4SH	s	0.0	0.0	0.0
+H2O	s	21.6531	115.455	355.0
+
+Uranus
+species	state	Hc	H	Tc
+CH4	s	8.4287	31.9977	78.0
+SH2	s	6.724	48.4068	118.0
+NH3	s	10.2211	69.3284	169.0
+NH4SH	s	0.0	0.0	0.0
+H2O	s	25.6461	141.1182	344.0
+
+Titan
+species	state	Hc	H	Tc
+CH4	s	5.1912	18.2163	84.8
+C2H6	s	3.1436	18.8607	87.8
+

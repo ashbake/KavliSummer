@@ -1,0 +1,3 @@
+#spec	state	X_c	   Tc	  Pc	 
+H2O	s	2.50E-04   221.	  0.2
+H2O	l	0.015	   281.	  0.74
